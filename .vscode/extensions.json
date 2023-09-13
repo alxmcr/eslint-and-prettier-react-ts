@@ -1,0 +1,30 @@
+{
+  "recommendations": [
+    "atomiks.moonlight",
+    "mvllow.rose-pine",
+    "ahmadawais.shades-of-purple",
+    "merko.merko-green-theme",
+    "maxmckinney.theme-smooth-yellow",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "vscode-icons-team.vscode-icons",
+    "pflannery.vscode-versionlens",
+    "leodevbro.blockman",
+    "wix.vscode-import-cost",
+    "mattpocock.ts-error-translator",
+    "AykutSarac.jsoncrack-vscode",
+    "christian-kohler.path-intellisense",
+    "cipchk.cssrem",
+    "kisstkondoros.vscode-gutter-preview",
+    "naumovs.color-highlight",
+    "ReacTreeDev.reactree",
+    "wix.glean",
+    "nicoespeon.abracadabra",
+    "mhutchie.git-graph",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-wsl",
+    "usernamehw.errorlens",
+    "ChakrounAnas.turbo-console-log",
+    "vivaxy.vscode-conventional-commits"
+  ]
+}
